@@ -1,3 +1,3 @@
 # Ahoy! 👏👏👏
 
-I teach entrepreneurship at Yale 🎓🎒. Lately 💙 @elm, @golang & [learning] @rust-lang. Formerly 💙 @python & @nodejs. Containerize all the things ✊ 
+I teach entrepreneurship and tech-related stuff at Yale 🎓🎒. Lately 💙 @[elm](https://github.com/elm), @[golang](https://github.com/golang/, SQL, & [learning] @[rust-lang](https://github.com/rust-lang/). Formerly 💙 @[python](https://github.com/python) & @[nodejs](https://github.com/nodejs).
