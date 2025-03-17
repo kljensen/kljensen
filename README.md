@@ -8,7 +8,8 @@ SQL (well, [PostgreSQL](https://www.postgresql.org/)),
 [elm](https://elm-lang.org/). 
 My daily drivers are [neovim](https://neovim.io/),
 [helix](https://helix-editor.com/),
-[vscode](https://code.visualstudio.com/), macOS, [OpenBSD](https://www.openbsd.org/), linux (usually [alpine](https://alpinelinux.org) or [debian](https://www.debian.org)), [zsh](https://www.zsh.org/), [tmux](https://github.com/tmux/tmux/wiki),
+[vscode](https://code.visualstudio.com/), macOS, [OpenBSD](https://www.openbsd.org/), linux (usually [alpine](https://alpinelinux.org) or [debian](https://www.debian.org)), [zsh](https://www.zsh.org/),
+[zellij](https://zellij.dev/)
 and
 [ghostty](https://ghostty.org/). 
 I'm noodling around lately with [typescript](https://www.typescriptlang.org), [gleam](https://gleam.run), [rust](https://www.rust-lang.org/), [typst](https://github.com/typst/typst), [switft](https://www.swift.org),
