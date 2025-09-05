@@ -3,8 +3,8 @@
 I teach entrepreneurship and tech-related stuff at [Yale SOM](https://som.yale.edu/).
 I'm into [go](https://golang.org/),
 SQL (well, [PostgreSQL](https://www.postgresql.org/)),
- [python](https://www.python.org/) 
-[nodejs](https://nodejs.org/en/), and
+ [python](https://www.python.org/),
+ [typescript](https://www.typescriptlang.org), and
 [elm](https://elm-lang.org/). 
 My daily drivers are [neovim](https://neovim.io/),
 [helix](https://helix-editor.com/),
@@ -12,5 +12,5 @@ My daily drivers are [neovim](https://neovim.io/),
 [zellij](https://zellij.dev/)
 and
 [ghostty](https://ghostty.org/). 
-I'm noodling around lately with [typescript](https://www.typescriptlang.org), [gleam](https://gleam.run), [rust](https://www.rust-lang.org/), [typst](https://github.com/typst/typst), [switft](https://www.swift.org),
+I'm noodling around lately with, [gleam](https://gleam.run), [rust](https://www.rust-lang.org/), [typst](https://github.com/typst/typst), [switft](https://www.swift.org),
 and [nix](https://nixos.org).
