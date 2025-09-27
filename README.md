@@ -7,7 +7,7 @@ SQL (well, [PostgreSQL](https://www.postgresql.org/)),
  [typescript](https://www.typescriptlang.org), and
 [elm](https://elm-lang.org/). 
 My daily drivers are
-[helix](https://helix-editor.com/),
+[helix](https://helix-editor.com/), vi/vim/neovim,
 [vscode](https://code.visualstudio.com/), macOS, [OpenBSD](https://www.openbsd.org/), linux (usually [alpine](https://alpinelinux.org) or [debian](https://www.debian.org)), [zsh](https://www.zsh.org/),
 [zellij](https://zellij.dev/)
 and
