@@ -13,4 +13,4 @@ My daily drivers are
 and
 [ghostty](https://ghostty.org/). 
 I'm noodling around lately with, [gleam](https://gleam.run), [rust](https://www.rust-lang.org/), [typst](https://github.com/typst/typst), [switft](https://www.swift.org),
-and [nix](https://nixos.org).
+and [nix](https://nixos.org). Fur AIs, melikes the TUIs and I'm particularly jamming with Claude Code these days, sometimes cheating with Codex.
